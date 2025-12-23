@@ -5,4 +5,4 @@ This is my very first RP2040 dev-board, and this is huge for the following reaso
 Since im stiill a beginner I would like to make it similar to Raspberry Pi Pico, but I’ll make a new one later on
 
 # Conclusion:
-There is a very huge gap between macropad and a custom dev-board, so I stuggle a lot with designing schematic and wiring the PCB. But overall, I'm really proud of myself and I'm finally confident enough to build more and more custom boards using integrated RP2040 rather than always relying on Raspberry Pi!
+There was a very huge gap between macropad and a custom dev-board, so I stuggled a lot with designing schematic and wiring the PCB. But overall, I'm really proud of myself and I'm finally confident enough to build more and more custom boards using integrated RP2040 rather than always relying on Raspberry Pi!
