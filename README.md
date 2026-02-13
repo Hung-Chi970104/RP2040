@@ -17,4 +17,4 @@ Simply download the repo
 - For the entire project: .kicad_pro
 
 ## Conclusion
-There was a very huge gap between macropad and a custom dev-board, so I stuggled a lot with designing schematic and wiring the PCB. But overall, I'm really proud of myself and I'm finally confident enough to build more and more custom boards using integrated RP2040 rather than always relying on Raspberry Pi!
+There was a very huge gap between macropad and a custom dev-board, so I stuggled a lot while designing the schematic and wiring the PCB. But overall, I'm really proud of myself and I'm finally confident enough to build more and more custom boards using integrated RP2040 rather than always relying on Raspberry Pi!
