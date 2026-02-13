@@ -2,8 +2,8 @@
 This is my very first RP2040 dev-board, and this is huge for the following reasons:
 - I will be able to integrate the chip directly into my future design
 - I will learn many fundamental concepts essential to pcb design
-![demo](assets/RP2040.png)
 Since im still a beginner I would like to make it similar to Raspberry Pi Pico, but I’ll make a new one later on
+![demo](assets/RP2040.png)
 
 ## Images
 ![schematic](assets/schematic.png)
