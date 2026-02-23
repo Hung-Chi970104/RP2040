@@ -43,7 +43,7 @@
 
 ## PCBs
 
-<img width="3168" height="1344" alt="demo_version2" src="https://github.com/user-attachments/assets/04ad3416-53a8-4cf7-979e-631923a92d10" />
+![comparison](assets/demo_version2.png)
 
 - 2 layers
 - Single-sided component placement
@@ -52,19 +52,19 @@
 - 1oz outer copper weight
 
 ### PCB Schematic
-<img width="2494" height="1814" alt="schematic" src="https://github.com/user-attachments/assets/2f404124-1a71-4bbb-a923-e40980d9ec2b" />
+![schematic](assets/schematic.png)
 
 ### PCB Layouts
-<img width="227" height="461" alt="RP2040-B_Cu" src="https://github.com/user-attachments/assets/fef38dcd-ef37-42c8-be01-e9e805ce5d51" />
-<img width="227" height="461" alt="RP2040-F_Cu" src="https://github.com/user-attachments/assets/1d6bd538-083b-46fe-a89b-8cda920bdbac" />
+![pcb_layout_front](assets/RP2040-F_Cu.png)
+![pcb_layout_back](assets/RP2040-B_Cu.png)
 
 ### 3D Model
-<img width="1723" height="1012" alt="RP2040_front" src="https://github.com/user-attachments/assets/9be14ca6-f8fb-4720-85a3-5f705b16f463" />
-<img width="1723" height="1012" alt="RP2040_back" src="https://github.com/user-attachments/assets/f1cf6687-d56a-4b40-b47f-1ff2e26d6f65" />
+![model_front](assets/RP2040_front.png)
+![model_back](assets/RP2040_back.png)
 
 ## Rendered Demo
-<img width="2752" height="1536" alt="demo_2" src="https://github.com/user-attachments/assets/5446685d-ca1d-42a6-a059-7040e3894b44" />
-<img width="2752" height="1536" alt="demo_3" src="https://github.com/user-attachments/assets/e5f58f69-4009-4052-be19-d63ecf7dbf12" />
-<img width="1344" height="768" alt="demo_4" src="https://github.com/user-attachments/assets/7f9a6255-9d00-45be-b553-bae965c0db1b" />
+![demo_2](assets/demo_2.png)
+![demo_3](assets/demo_3.png)
+![demo_4](assets/demo_4.png)
 
 
